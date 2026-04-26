@@ -34,3 +34,5 @@
 ## 注意
 
 本项目仅用于学习和交流，勿用于未经授权的商业分发或破解行为。
+
+<img width="869" height="1045" alt="JavaScript文件加密工具" src="https://github.com/user-attachments/assets/317d06da-e3b6-478c-bf55-99683115bcab" />
